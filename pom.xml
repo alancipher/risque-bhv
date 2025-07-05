@@ -114,6 +114,13 @@
     </dependency>
   </dependencies>
 
+  <pluginRepositories>
+    <pluginRepository>
+      <id>projectlombok.org</id>
+      <url>https://projectlombok.org/mavenrepo</url>
+    </pluginRepository>
+  </pluginRepositories>
+
   <build>
     <plugins>
       <plugin>
